@@ -1,0 +1,272 @@
+0000.001 (0) Opened log file at time: Sat, 19 Jan 2019 04:09:46 +0000 on http://localhost/wordpress
+0000.094 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.4 WP: 5.0.3 PHP: 7.3.0 (apache2handler, Windows NT DESKTOP-3HI553K 10.0 build 17134 (Windows 10) i586) MySQL: 10.1.37-MariaDB WPLANG: en_US Server: Apache/2.4.37 (Win32) OpenSSL/1.1.1a PHP/7.3.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 46.4M | 10M) multisite: N openssl: OpenSSL 1.1.0j  20 Nov 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.142 (0) Free space on disk containing Updraft's temporary directory: 272842.8 MB
+0000.214 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.252 (0) Semaphore (fd, wp_options) being initialised
+0000.365 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.719 (0) Set semaphore last lock (fd) time to 2019-01-19 04:09:46
+0000.795 (0) Semaphore lock (fd) complete
+0000.936 (0) Backup run: resumption=0, nonce=a9e7728f9c34, file_nonce=a9e7728f9c34 begun at=1547870986 (1s ago), job type=backup
+0001.029 (0) Scheduling a resumption (1) after 300 seconds (1547871287) in case this run gets aborted
+0001.139 (0) Checking if we have a zip executable available
+0001.251 (0) Creation of backups of directories: beginning
+0001.413 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0014.611 (0) Total entities for the zip file: 827 directories, 4982 files (0 skipped as non-modified), 85.9 MB
+0014.674 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0015.033 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 100 files added (on-disk size: 137.9 KB)
+0015.210 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 200 files added (on-disk size: 137.9 KB)
+0015.320 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 300 files added (on-disk size: 137.9 KB)
+0015.484 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 400 files added (on-disk size: 137.9 KB)
+0015.659 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 500 files added (on-disk size: 137.9 KB)
+0015.713 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.6 MB, 4982 files batched, 501 (502) added so far); re-opening (prior size: 137.9 KB)
+0026.674 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 600 files added (on-disk size: 3165.8 KB)
+0026.838 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 700 files added (on-disk size: 3165.8 KB)
+0026.938 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 800 files added (on-disk size: 3165.8 KB)
+0027.053 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 900 files added (on-disk size: 3165.8 KB)
+0027.239 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 1000 files added (on-disk size: 3165.8 KB)
+0027.316 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.6 MB, 4982 files batched, 501 (1003) added so far); re-opening (prior size: 3165.8 KB)
+0034.645 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 1100 files added (on-disk size: 4507.2 KB)
+0034.873 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 1200 files added (on-disk size: 4507.2 KB)
+0035.023 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 1300 files added (on-disk size: 4507.2 KB)
+0035.208 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 1400 files added (on-disk size: 4507.2 KB)
+0035.358 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 1500 files added (on-disk size: 4507.2 KB)
+0035.426 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.3 MB, 4982 files batched, 501 (1504) added so far); re-opening (prior size: 4507.2 KB)
+0041.828 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 1600 files added (on-disk size: 6901.2 KB)
+0042.072 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 1700 files added (on-disk size: 6901.2 KB)
+0042.196 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 1800 files added (on-disk size: 6901.2 KB)
+0042.332 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 1900 files added (on-disk size: 6901.2 KB)
+0042.441 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 2000 files added (on-disk size: 6901.2 KB)
+0042.474 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.3 MB, 4982 files batched, 501 (2005) added so far); re-opening (prior size: 6901.2 KB)
+0047.807 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 2100 files added (on-disk size: 9752.7 KB)
+0048.028 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 2200 files added (on-disk size: 9752.7 KB)
+0048.163 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 2300 files added (on-disk size: 9752.7 KB)
+0048.296 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 2400 files added (on-disk size: 9752.7 KB)
+0048.416 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 2500 files added (on-disk size: 9752.7 KB)
+0048.488 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (17.2 MB, 4982 files batched, 501 (2506) added so far); re-opening (prior size: 9752.7 KB)
+0051.224 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 2600 files added (on-disk size: 14362.5 KB)
+0051.374 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 2700 files added (on-disk size: 14362.5 KB)
+0051.538 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 2800 files added (on-disk size: 14362.5 KB)
+0051.761 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 2900 files added (on-disk size: 14362.5 KB)
+0051.973 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 3000 files added (on-disk size: 14362.5 KB)
+0052.047 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.8 MB, 4982 files batched, 501 (3007) added so far); re-opening (prior size: 14362.5 KB)
+0053.890 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 3100 files added (on-disk size: 15313.3 KB)
+0054.123 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 3200 files added (on-disk size: 15313.3 KB)
+0054.293 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 3300 files added (on-disk size: 15313.3 KB)
+0054.455 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 3400 files added (on-disk size: 15313.3 KB)
+0054.618 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 3500 files added (on-disk size: 15313.3 KB)
+0054.665 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.6 MB, 4982 files batched, 501 (3508) added so far); re-opening (prior size: 15313.3 KB)
+0062.874 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 3600 files added (on-disk size: 18984.4 KB)
+0063.033 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 3700 files added (on-disk size: 18984.4 KB)
+0063.184 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 3800 files added (on-disk size: 18984.4 KB)
+0063.372 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 3900 files added (on-disk size: 18984.4 KB)
+0063.550 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 4000 files added (on-disk size: 18984.4 KB)
+0063.598 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.7 MB, 4982 files batched, 501 (4009) added so far); re-opening (prior size: 18984.4 KB)
+0071.399 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 4100 files added (on-disk size: 20642.7 KB)
+0071.570 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 4200 files added (on-disk size: 20642.7 KB)
+0071.736 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 4300 files added (on-disk size: 20642.7 KB)
+0071.886 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 4400 files added (on-disk size: 20642.7 KB)
+0072.056 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 4500 files added (on-disk size: 20642.7 KB)
+0072.167 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.5 MB, 4982 files batched, 501 (4510) added so far); re-opening (prior size: 20642.7 KB)
+0078.191 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 4600 files added (on-disk size: 21880.8 KB)
+0078.482 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 4700 files added (on-disk size: 21880.8 KB)
+0078.731 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 4800 files added (on-disk size: 21880.8 KB)
+0078.873 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip.tmp: 4900 files added (on-disk size: 21880.8 KB)
+0092.644 (0) Created plugins zip (0) - 29986.7 KB in 91 s (329.5 KB/s) (sha1: 378f5a8efcb8692e3374679e76093c6cd9fa6b2c, sha256: c90e33eff4be007f59b3a5f99c2d7ebd5545a473071f12a507d31d45078abe9c)
+0092.854 (0) Beginning creation of dump of themes (split every: 400 MB)
+0095.489 (0) Total entities for the zip file: 165 directories, 735 files (0 skipped as non-modified), 23.5 MB
+0095.688 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0095.784 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (9.5 MB, 102 (102) files added so far); re-opening (prior size: 0 KB)
+0101.209 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-themes.zip.tmp: 200 files added (on-disk size: 7670.4 KB)
+0101.520 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-themes.zip.tmp: 300 files added (on-disk size: 7670.4 KB)
+0101.702 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-themes.zip.tmp: 400 files added (on-disk size: 7670.4 KB)
+0101.904 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-themes.zip.tmp: 500 files added (on-disk size: 7670.4 KB)
+0102.168 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-themes.zip.tmp: 600 files added (on-disk size: 7670.4 KB)
+0102.223 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.5 MB, 735 files batched, 501 (603) added so far); re-opening (prior size: 7670.4 KB)
+0115.803 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-themes.zip.tmp: 700 files added (on-disk size: 12729.1 KB)
+0119.980 (0) Created themes zip (0) - 14518 KB in 27.1 s (536.4 KB/s) (sha1: 62e16ad99574b2ddcb7640fcd5a144182c54cc18, sha256: 1501760f757bd5c1a6487f28f41bb70a31a396d5b523e6d5e2e2382635d70329)
+0120.188 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0120.292 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress/wp-content/uploads
+0120.446 (0) finding files: 2019: adding to list (1)
+0120.642 (0) finding files: GeoLite2-Country.mmdb: adding to list (2)
+0120.764 (0) finding files: wc-logs: adding to list (3)
+0120.924 (0) finding files: woocommerce_uploads: adding to list (4)
+0120.974 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0126.296 (0) Total entities for the zip file: 4 directories, 448 files (0 skipped as non-modified), 15.7 MB
+0126.453 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0126.869 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-uploads.zip.tmp: 100 files added (on-disk size: 6.2 KB)
+0127.015 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-uploads.zip.tmp: 200 files added (on-disk size: 6.2 KB)
+0127.227 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-uploads.zip.tmp: 300 files added (on-disk size: 6.2 KB)
+0127.435 (0) Zip: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-uploads.zip.tmp: 400 files added (on-disk size: 6.2 KB)
+0146.775 (0) Created uploads zip (0) - 14468.2 KB in 25.6 s (564.2 KB/s) (sha1: bfdf84107def834d0416524c3c1a27d778351c9a, sha256: fbc3afca65dc36742248625eaac0324426004a5beb46e673cd2166d0d559c099)
+0146.883 (0) Beginning backup of other directories found in the content directory (index: 0)
+0146.914 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0146.983 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress/wp-content
+0147.015 (0) finding files: backup-db: skipping: excluded by options (glob)
+0147.057 (0) finding files: index.php: adding to list (1)
+0147.093 (0) finding files: plugins: skipping: this is the plugins directory
+0147.138 (0) finding files: themes: skipping: this is the themes directory
+0147.189 (0) finding files: updraft: skipping: this is the updraft directory
+0147.237 (0) finding files: upgrade: skipping: excluded by options
+0147.267 (0) finding files: uploads: skipping: this is the uploads directory
+0147.391 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0147.597 (0) Created others zip (0) - 0.1 KB in 0.3 s (0.5 KB/s) (sha1: ef052c6f6185a0ecb44984fd9d44e3ebe798acc5, sha256: c83c0d8679a6a5dbe396683b42cd5c3665a0cecf4c5edb06067c68686aae7727)
+0147.843 (0) Saving backup status to database (elements: 8)
+0148.012 (0) Beginning creation of database dump (WordPress DB)
+0148.419 (0) Table wp_options: Total expected rows (approximate): 383
+0149.028 (0) Table wp_options: Total rows added: 385 in 0.55 seconds
+0149.112 (0) Table wp_options: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_options.table.gz - 264.8 KB)
+0149.371 (0) Table wp_users: Total expected rows (approximate): 0
+0149.448 (0) Table wp_users: Total rows added: 1 in 0.01 seconds
+0149.529 (0) Table wp_users: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_users.table.gz - 0.5 KB)
+0149.765 (0) Table wp_usermeta: Total expected rows (approximate): 23
+0149.812 (0) Table wp_usermeta: Total rows added: 27 in 0.01 seconds
+0149.865 (0) Table wp_usermeta: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_usermeta.table.gz - 1.2 KB)
+0150.046 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0150.190 (0) Table wp_commentmeta: Total rows added: 0 in 0.08 seconds
+0150.283 (0) Table wp_commentmeta: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0150.875 (0) Table wp_comments: Total expected rows (approximate): 1
+0150.964 (0) Table wp_comments: Total rows added: 1 in 0.04 seconds
+0151.046 (0) Table wp_comments: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_comments.table.gz - 0.7 KB)
+0151.331 (0) Table wp_links: Total expected rows (approximate): 0
+0151.431 (0) Table wp_links: Total rows added: 0 in 0.04 seconds
+0151.521 (0) Table wp_links: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_links.table.gz - 0.4 KB)
+0151.829 (0) Table wp_postmeta: Total expected rows (approximate): 478
+0152.139 (0) Table wp_postmeta: Total rows added: 541 in 0.23 seconds
+0152.231 (0) Table wp_postmeta: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_postmeta.table.gz - 13.9 KB)
+0152.542 (0) Table wp_posts: Total expected rows (approximate): 241
+0153.187 (0) Table wp_posts: Total rows added: 241 in 0.57 seconds
+0153.277 (0) Table wp_posts: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_posts.table.gz - 23.2 KB)
+0153.548 (0) Table wp_term_relationships: Total expected rows (approximate): 22
+0153.714 (0) Table wp_term_relationships: Total rows added: 25 in 0.09 seconds
+0153.835 (0) Table wp_term_relationships: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0154.075 (0) Table wp_term_taxonomy: Total expected rows (approximate): 26
+0154.221 (0) Table wp_term_taxonomy: Total rows added: 27 in 0.08 seconds
+0154.317 (0) Table wp_term_taxonomy: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_term_taxonomy.table.gz - 0.6 KB)
+0154.590 (0) Table wp_termmeta: Total expected rows (approximate): 8
+0154.822 (0) Table wp_termmeta: Total rows added: 7 in 0.17 seconds
+0154.886 (0) Table wp_termmeta: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_termmeta.table.gz - 0.5 KB)
+0155.114 (0) Table wp_terms: Total expected rows (approximate): 26
+0155.335 (0) Table wp_terms: Total rows added: 27 in 0.10 seconds
+0155.527 (0) Table wp_terms: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_terms.table.gz - 0.7 KB)
+0156.297 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0156.895 (0) Table wp_woocommerce_order_itemmeta: Total rows added: 0 in 0.29 seconds
+0157.489 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+0159.031 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0159.362 (0) Table wp_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.11 seconds
+0159.469 (0) Table wp_woocommerce_payment_tokenmeta: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0160.394 (0) Table wp_failed_jobs: Total expected rows (approximate): 0
+0161.360 (0) Table wp_failed_jobs: Total rows added: 0 in 0.33 seconds
+0161.589 (0) Table wp_failed_jobs: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_failed_jobs.table.gz - 0.3 KB)
+0162.407 (0) Table wp_mailchimp_carts: Total expected rows (approximate): 0
+0162.518 (0) Table wp_mailchimp_carts: Total rows added: 0 in 0.02 seconds
+0162.646 (0) Table wp_mailchimp_carts: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_mailchimp_carts.table.gz - 0.3 KB)
+0163.075 (0) Table wp_queue: Total expected rows (approximate): 0
+0163.230 (0) Table wp_queue: Total rows added: 0 in 0.09 seconds
+0163.355 (0) Table wp_queue: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_queue.table.gz - 0.3 KB)
+0164.379 (0) Table wp_wc_download_log: Total expected rows (approximate): 0
+0164.543 (0) Table wp_wc_download_log: Total rows added: 0 in 0.06 seconds
+0164.663 (0) Table wp_wc_download_log: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_wc_download_log.table.gz - 0.4 KB)
+0165.608 (0) Table wp_wc_webhooks: Total expected rows (approximate): 0
+0165.751 (0) Table wp_wc_webhooks: Total rows added: 0 in 0.01 seconds
+0165.902 (0) Table wp_wc_webhooks: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_wc_webhooks.table.gz - 0.5 KB)
+0166.566 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0166.701 (0) Table wp_woocommerce_api_keys: Total rows added: 0 in 0.01 seconds
+0166.822 (0) Table wp_woocommerce_api_keys: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_api_keys.table.gz - 0.4 KB)
+0167.311 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0167.532 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 0 in 0.07 seconds
+0167.680 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0168.394 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0168.739 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.11 seconds
+0168.890 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0169.452 (0) Table wp_woocommerce_log: Total expected rows (approximate): 0
+0169.575 (0) Table wp_woocommerce_log: Total rows added: 0 in 0.02 seconds
+0169.733 (0) Table wp_woocommerce_log: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_log.table.gz - 0.4 KB)
+0170.665 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 0
+0170.930 (0) Table wp_woocommerce_order_items: Total rows added: 0 in 0.13 seconds
+0171.137 (0) Table wp_woocommerce_order_items: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_order_items.table.gz - 0.3 KB)
+0171.504 (0) Table wp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0171.632 (0) Table wp_woocommerce_payment_tokens: Total rows added: 0 in 0.01 seconds
+0171.772 (0) Table wp_woocommerce_payment_tokens: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0172.280 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 0
+0172.459 (0) Table wp_woocommerce_sessions: Total rows added: 1 in 0.06 seconds
+0172.644 (0) Table wp_woocommerce_sessions: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_sessions.table.gz - 0.9 KB)
+0173.228 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0173.451 (0) Table wp_woocommerce_shipping_zone_locations: Total rows added: 1 in 0.05 seconds
+0173.717 (0) Table wp_woocommerce_shipping_zone_locations: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0174.227 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 2
+0174.368 (0) Table wp_woocommerce_shipping_zone_methods: Total rows added: 2 in 0.01 seconds
+0174.458 (0) Table wp_woocommerce_shipping_zone_methods: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0174.754 (0) Table wp_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0175.082 (0) Table wp_woocommerce_shipping_zones: Total rows added: 1 in 0.20 seconds
+0175.211 (0) Table wp_woocommerce_shipping_zones: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_shipping_zones.table.gz - 0.4 KB)
+0175.781 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0175.909 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.04 seconds
+0176.064 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0176.424 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0176.558 (0) Table wp_woocommerce_tax_rates: Total rows added: 0 in 0.06 seconds
+0176.686 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0177.261 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_options.table.gz (1/31): adding to final database dump
+0177.592 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_users.table.gz (2/31): adding to final database dump
+0177.745 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_usermeta.table.gz (3/31): adding to final database dump
+0177.914 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_commentmeta.table.gz (4/31): adding to final database dump
+0178.091 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_comments.table.gz (5/31): adding to final database dump
+0178.301 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_links.table.gz (6/31): adding to final database dump
+0178.435 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_postmeta.table.gz (7/31): adding to final database dump
+0178.809 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_posts.table.gz (8/31): adding to final database dump
+0178.967 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_term_relationships.table.gz (9/31): adding to final database dump
+0179.197 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_term_taxonomy.table.gz (10/31): adding to final database dump
+0179.296 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_termmeta.table.gz (11/31): adding to final database dump
+0179.462 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_terms.table.gz (12/31): adding to final database dump
+0179.617 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_order_itemmeta.table.gz (13/31): adding to final database dump
+0179.838 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_payment_tokenmeta.table.gz (14/31): adding to final database dump
+0179.971 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_failed_jobs.table.gz (15/31): adding to final database dump
+0180.115 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_mailchimp_carts.table.gz (16/31): adding to final database dump
+0180.237 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_queue.table.gz (17/31): adding to final database dump
+0180.930 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_wc_download_log.table.gz (18/31): adding to final database dump
+0181.710 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_wc_webhooks.table.gz (19/31): adding to final database dump
+0181.922 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_api_keys.table.gz (20/31): adding to final database dump
+0182.165 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_attribute_taxonomies.table.gz (21/31): adding to final database dump
+0182.451 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (22/31): adding to final database dump
+0182.556 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_log.table.gz (23/31): adding to final database dump
+0182.753 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_order_items.table.gz (24/31): adding to final database dump
+0182.953 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_payment_tokens.table.gz (25/31): adding to final database dump
+0183.327 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_sessions.table.gz (26/31): adding to final database dump
+0183.448 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_shipping_zone_locations.table.gz (27/31): adding to final database dump
+0183.537 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_shipping_zone_methods.table.gz (28/31): adding to final database dump
+0183.636 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_shipping_zones.table.gz (29/31): adding to final database dump
+0183.775 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_tax_rate_locations.table.gz (30/31): adding to final database dump
+0183.968 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db-table-wp_woocommerce_tax_rates.table.gz (31/31): adding to final database dump
+0184.325 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db.gz: finished writing out complete database file (296 KB)
+0184.996 (0) Total database tables backed up: 31 (backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db.gz, size: 314715, sha256)
+0185.940 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0185.982 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0186.050 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0186.183 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-others.zip: others: This file has not yet been successfully uploaded: will queue
+0186.353 (0) backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db.gz: db: This file has not yet been successfully uploaded: will queue
+0186.537 (0) Saving backup history. Total backup size: 57.9 MB
+0186.625 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0186.813 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0186.880 (0) No remote despatch: user chose no remote backup service
+0186.923 (0) Recording as successfully uploaded: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-plugins.zip
+0187.046 (0) Recording as successfully uploaded: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-themes.zip
+0187.310 (0) Recording as successfully uploaded: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-uploads.zip
+0187.434 (0) Recording as successfully uploaded: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-others.zip
+0187.567 (0) Recording as successfully uploaded: backup_2019-01-19-0409_Trip_Book_a9e7728f9c34-db.gz
+0187.746 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0187.799 (0) Number of backup sets in history: 1; groups (db): 1
+0187.908 (0) Examining (for databases) backup set with group_id=0, nonce=a9e7728f9c34, datestamp=1547870986 (Jan 19 2019 04:09:46)
+0187.965 (0) This backup set is the backup set just made, so will not be deleted.
+0187.965 (0) Number of backup sets in history: 1; groups (files): 1
+0188.019 (0) Examining (for files) backup set with nonce=a9e7728f9c34, datestamp=1547870986 (Jan 19 2019 04:09:46)
+0188.019 (0) This backup set is the backup set just made, so will not be deleted.
+0188.196 (0) This backup set is the backup set just made, so will not be deleted.
+0188.197 (0) This backup set is the backup set just made, so will not be deleted.
+0188.197 (0) This backup set is the backup set just made, so will not be deleted.
+0188.197 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.275 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0188.399 (0) Resume backup (a9e7728f9c34, 0): finish run
+0188.643 (0) Decremented the semaphore (fd) by 1
+0188.798 (0) Semaphore (fd) unlocked
+0188.853 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0189.106 (0) No email will/can be sent - the user has not configured an email address.
+0189.247 (0) The backup apparently succeeded and is now complete

@@ -1,0 +1,74 @@
+Changelog:-
+
+Version: 1.5.5[05/10/2018]
+1) Welcome page added
+2) Minor issues fixed in header
+
+Version: 1.5.4[30/07/2018]
+1) Rating option added on admin panel.
+
+Version: 1.5.3[21/06/2018]
+1) Sticky header option added.
+2) Go Enigma Premium option added on admin panel.
+
+Version: 1.5.2[06/03/2018]
+1) Description update.
+
+Version: 1.5.1[2/02/2018]
+1) One more slider added for home page.
+2) Plug-in Recommendation.
+
+Version: 1.5[16/12/2017]
+1) Snow effect option added.
+2) Rating banner dismiss option added.
+
+Version: 1.4[18/10/2017]
+1) Quick edit
+2) Editor 
+3) Icon picker
+4) Front Page Section Manager
+5) Rating banner
+
+
+Version: 1.3[21/08/2017]
+1. Homepage setup page added.
+
+Version: 1.2[21/03/2017]
+1. Minor changes in custom header.
+
+Version: 1.1[30/01/2017]
+1. FontAwesome Updated.
+2. snow effect remved for customizer.
+3. Custome header added(Randomizesd).
+
+
+Version: 1.0[27/12/2016]
+1. FontAwesome Updated.
+2. snow effect aded for customizer.
+3. Custome header added.
+
+Version: 0.9[23/11/2016]
+1. Other themes and plugin page added only showing.
+
+Version: 0.8[03/11/2016]
+Issue Fix.
+
+Version: 0.7
+Fixing some minor issues.
+
+Version: 0.6
+Minor Changes.
+
+Version: 0.5
+https://themes.trac.wordpress.org/ticket/30606#comment:14
+
+Version: 0.4
+https://themes.trac.wordpress.org/ticket/30606#comment:7
+
+
+Version: 0.2
+issue fixed : https://themes.trac.wordpress.org/ticket/30606#comment:2
+
+
+
+Version: 0.1
